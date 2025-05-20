@@ -17,14 +17,12 @@ A responsive and animated image slider created with HTML, CSS, and vanilla JavaS
 
 ## 📁 Project Structure
 
-```
 
 image-slider/
 ├── index.html           # Main HTML file
 ├── images/              # Folder containing JPEG images (jpg1.jpeg, jpg2.jpeg, etc.)
 └── README.md            # Project documentation
 
-`
 
 ## 🚀 How to Use
 
