@@ -5,7 +5,7 @@ A responsive and animated image slider created with HTML, CSS, and vanilla JavaS
 
 ## 🎥 Demo
 
-
+![Image](https://github.com/user-attachments/assets/5b85036b-2c40-400c-9a99-415d3e34a005)
 
 ## ✨ Features
 
