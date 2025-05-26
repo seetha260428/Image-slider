@@ -3,7 +3,7 @@
 
 A responsive and animated image slider created with HTML, CSS, and vanilla JavaScript. This project supports manual navigation using arrows and also features automatic image transitions every 3 seconds.
 
-## 🎥 Demo
+## 🎥Live  Demo : https://seetha260428.github.io/Image-slider/
 
 ![Image](https://github.com/user-attachments/assets/5b85036b-2c40-400c-9a99-415d3e34a005)
 
